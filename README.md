@@ -107,4 +107,3 @@ git clone https://github.com/{YOUR_USER}/global-az-maps
 - [Publicación de una aplicación de JavaScript de Angular, React, Svelte o Vue con Azure Static Web Apps](https://learn.microsoft.com/es-es/training/modules/publish-app-service-static-web-app-api/?wt.mc_id=studentamb_159817)
 - [Creación de la primera aplicación de búsqueda de rutas con Azure Maps](https://learn.microsoft.com/es-es/training/modules/create-your-first-app-with-azure-maps/?wt.mc_id=studentamb_159817)
 - [Azure Maps Samples](https://samples.azuremaps.com/)
-- 
