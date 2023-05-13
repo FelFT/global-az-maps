@@ -3,15 +3,15 @@ Este repositorio contiene una página web lista para poderse enlazar a una insta
 
 # Procedimiento
 ## Requerimientos 
-- Una suscripción de [Azure](https://azure.microsoft.com/es-es/)
-  - [Azure for Students](https://azure.microsoft.com/es-es/free/students/)
-  - [Cuenta gratuita de Azure](https://azure.microsoft.com/es-es/free/) 
+- Una suscripción de [Azure](https://azure.microsoft.com/es-es/?wt.mc_id=studentamb_159817)
+  - [Azure for Students](https://azure.microsoft.com/es-es/free/students/?wt.mc_id=studentamb_159817)
+  - [Cuenta gratuita de Azure](https://azure.microsoft.com/es-es/free/?wt.mc_id=studentamb_159817) 
 - Visual Studio Code
 - Git 
 - GitHub Desktop _(opcional)_
 
 ## Servicio de Azure Maps
-1. Accede al portal de Azure.
+1. Accede al [portal de Azure](https://portal.azure.com/?wt.mc_id=studentamb_159817).
 
 ![image](https://github.com/tohtechcommunity/global-az-maps/assets/50784966/4cf259e0-875b-4783-a313-47cc0c3e261e)
 
@@ -74,7 +74,7 @@ git clone https://github.com/{YOUR_USER}/global-az-maps
 5. En el menú de la izquierda, selecciona **Control de código fuente**. Escribe un mensaje y selcciona **Confirmación**. 
 
 ## Desplegar el proyecto en Azure
-1. Accede nuevamente al portal de Azure.
+1. Accede nuevamente al [portal de Azure](https://portal.azure.com/?wt.mc_id=studentamb_159817).
 
 ![image](https://github.com/tohtechcommunity/global-az-maps/assets/50784966/4cf259e0-875b-4783-a313-47cc0c3e261e)
 
@@ -103,3 +103,8 @@ git clone https://github.com/{YOUR_USER}/global-az-maps
 9. Dirígete al recurso que acabas de crear. Haz clic en el URL público para visualizar tu página web.
 
 # Recursos
+
+- [Publicación de una aplicación de JavaScript de Angular, React, Svelte o Vue con Azure Static Web Apps](https://learn.microsoft.com/es-es/training/modules/publish-app-service-static-web-app-api/?wt.mc_id=studentamb_159817)
+- [Creación de la primera aplicación de búsqueda de rutas con Azure Maps](https://learn.microsoft.com/es-es/training/modules/create-your-first-app-with-azure-maps/?wt.mc_id=studentamb_159817)
+- [Azure Maps Samples](https://samples.azuremaps.com/)
+- 
