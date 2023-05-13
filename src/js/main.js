@@ -19,7 +19,7 @@ function GetMap() {
     authOptions: {
       //Use an Azure Maps key. Get an Azure Maps key at https://azure.com/maps. NOTE: The primary key should be used as the key.
       authType: "subscriptionKey",
-      subscriptionKey: "[YOUR_AZURE_MAPS_KEY]",
+      subscriptionKey: "4DnLkOO5PZ6U0_HG0rbm2O17tOIjxMHUpfZmBpl8XoE",
     },
   });
 
